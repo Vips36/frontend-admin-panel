@@ -1,0 +1,35 @@
+{
+  "SEO": {
+    "title": "Weed in Thailand - WeedMaps of Thailand",
+    "description": "The largest cannabis related search in Thailand with over 4,629+ dispensaries/shops, and 95,000+ reviews. The WeedMaps of Thailand.",
+    "keywords": "Weed in Thailand, Thailand WeedMaps, WeedMaps, Bangkok Weed"
+  },
+  "NotFoundPage": {
+    "title": "This page \ndoes not exist",
+    "text": "You followed the wrong link, or this page has been removed.",
+    "link": "Start from the home page"
+  },
+  "HomePage": {
+    "SEO": {
+      "title": "Weed in Thailand - WeedMaps of Thailand",
+      "description": "The largest cannabis related search in Thailand with over 4,629+ dispensaries/shops, and 95,000+ reviews. The WeedMaps of Thailand.",
+      "keywords": "Weed in Thailand, Thailand WeedMaps, WeedMaps, Bangkok Weed",
+      "og": {
+        "title": "Weed in Thailand - WeedMaps of Thailand",
+        "description": "The largest cannabis related search in Thailand with over 4,629+ dispensaries/shops, and 95,000+ reviews. The WeedMaps of Thailand.",
+        "type": "website",
+        "locale": "ru_RU",
+        "url": "https://localhost.ru/",
+        "site_name": "Weed in Thailand - WeedMaps of Thailand",
+        "image": "/static/images/cover.jpeg"
+      },
+      "twitter": {
+        "image": "/static/images/cover.jpeg",
+        "title": "Weed in Thailand - WeedMaps of Thailand",
+        "description": "The largest cannabis related search in Thailand with over 4,629+ dispensaries/shops, and 95,000+ reviews. The WeedMaps of Thailand.",
+        "card": "summary_large_image",
+        "url": "https://localhost.ru/"
+      }
+    }
+  }
+}

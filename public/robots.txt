@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://localhost.ru
+
+# Sitemaps
+Sitemap: https://localhost.ru/sitemap.xml
