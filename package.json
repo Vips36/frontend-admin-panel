@@ -30,7 +30,7 @@
     "cross-env": "^7.0.3",
     "formik": "^2.2.9",
     "gray-matter": "^4.0.3",
-    "i18next": "22.4.14",
+    "i18next": "22.4.15",
     "lodash": "^4.17.21",
     "mailtrap": "^3.0.0",
     "mapbox-gl": "^2.13.0",
